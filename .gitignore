@@ -21,3 +21,6 @@
 go.work
 
 .cursorrules
+
+## Python cache
+__pycache__/
