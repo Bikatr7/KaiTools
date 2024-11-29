@@ -1,5 +1,7 @@
 # KaiTools
 
+# (development current postponed due to other priorities)
+
 An (ongoing) set of Cybersecurity tools written in Go that I've been making for the purpose of furthering my knowledge in Golang and Cybersecurity.
 
 ## PortScanner
